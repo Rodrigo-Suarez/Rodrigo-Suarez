@@ -1,4 +1,30 @@
-👋 ¡Hola! Soy Rodrigo, desarrollador backend junior y estudiante de Ciencias de la Computación. Me apasiona el desarrollo de software y trabajar con tecnologías
+# 👋 ¡Hola, soy Rodrigo! 
+
+¡Bienvenido a mi perfil de GitHub! Soy un **Back-End Developer Junior** apasionado por crear soluciones eficientes y escalables, y siempre en busca de nuevos desafíos tecnológicos. 🚀  
+
+## 💻 Skills  
+- **Lenguajes:** Python, SQL  
+- **Frameworks:** FastAPI  
+- **Bases de Datos:** MySQL  
+- **Control de Versiones:** Git & GitHub  
+- **Idiomas:**  
+  - Español (Nativo)  
+  - Inglés (Intermedio)  
+
+## 🚀 Sobre mí  
+Actualmente estoy desarrollando mis habilidades como desarrollador back-end, aprendiendo nuevas tecnologías y contribuyendo a proyectos que me permitan crecer profesionalmente. Mi enfoque está en el desarrollo de APIs, la optimización de bases de datos y la implementación de buenas prácticas en el desarrollo de software.  
+
+Cuando no estoy codificando, me gusta aprender inglés, ¡y entrenar en el gimnasio! 💪  
+
+## 📈 Estadísticas  
+![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Suarez&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Suarez&layout=compact&theme=radical)  
+
+## 🌐 Conéctate conmigo  
+- [LinkedIn](linkedin.com/in/rodrigo-suarez-85225a318)  
+
+✨ **Siempre abierto a nuevas oportunidades y colaboraciones. ¡Hablemos!** ✨  
+
 <!--
 **Rodrigo-Suarez/Rodrigo-Suarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
