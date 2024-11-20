@@ -21,7 +21,7 @@ Cuando no estoy codificando, me gusta aprender inglés, ¡y entrenar en el gimna
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Suarez&layout=compact&theme=radical)  
 
 ## 🌐 Conéctate conmigo  
-- [LinkedIn](linkedin.com/in/rodrigo-suarez-85225a318)  
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-suarez-85225a318/)  
 
 ✨ **Siempre abierto a nuevas oportunidades y colaboraciones. ¡Hablemos!** ✨  
 
