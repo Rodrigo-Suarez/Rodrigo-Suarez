@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+👋 ¡Hola! Soy Rodrigo, desarrollador backend junior y estudiante de Ciencias de la Computación. Me apasiona el desarrollo de software y trabajar con tecnologías
 <!--
 **Rodrigo-Suarez/Rodrigo-Suarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
