@@ -16,9 +16,6 @@ Actualmente estoy desarrollando mis habilidades como desarrollador back-end, apr
 
 Cuando no estoy codificando, me gusta aprender inglés, ¡y entrenar en el gimnasio! 💪  
 
-## 📈 Estadísticas  
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Suarez&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Suarez&layout=compact&theme=radical)  
 
 ## 🌐 Conéctate conmigo  
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-suarez-85225a318/)  
