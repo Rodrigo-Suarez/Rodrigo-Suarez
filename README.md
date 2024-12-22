@@ -5,7 +5,7 @@
 ## 💻 Skills  
 - **Lenguajes:** Python, SQL  
 - **Frameworks:** FastAPI  
-- **Bases de Datos:** MySQL  
+- **Bases de Datos:** MySQL, PostgreSQL  
 - **Control de Versiones:** Git & GitHub  
 - **Idiomas:**  
   - Español (Nativo)  
