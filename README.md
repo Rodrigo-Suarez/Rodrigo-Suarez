@@ -6,7 +6,9 @@
 - **Lenguajes:** Python, SQL  
 - **Frameworks:** FastAPI  
 - **Bases de Datos:** MySQL, PostgreSQL  
-- **Control de Versiones:** Git & GitHub  
+- **Control de Versiones:** Git & GitHub
+- **Herramientas:** Notion, ngrok, Postman, Visual Studio Code
+- **CMSs:** Xano, Strapi
 - **Idiomas:**  
   - Español (Nativo)  
   - Inglés (Intermedio)  
