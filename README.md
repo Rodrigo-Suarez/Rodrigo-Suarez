@@ -37,7 +37,7 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 <a href="https://www.linkedin.com/in/rodrigo-suarez-85225a318/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="80" height="30">
 </a>
-<a href="discordapp.com/users/rodrigo#9108">
+<a href="https://discord.com/users/558724992561315841/">
     <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white" width="100" height="30">
 </a>
 <a href="mailto:rodrigo.facultad.unsj@gmail.com">
