@@ -25,7 +25,7 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 <img src="https://img.shields.io/badge/-Xano-0078D7?logo=xano&logoColor=white" width="70" height="30">  <img src="https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white" width="100" height="30">
 
 ### 🌍 Idiomas:
-<img src="https://img.shields.io/badge/-Espa%C3%B1ol%20(Nativo)-FF0000?logo=googletranslate&logoColor=white" width="150" height="30">  <img src="https://img.shields.io/badge/-Ingl%C3%A9s%20(Intermedio)-0078D7?logo=googletranslate&logoColor=white" width="150" height="30">
+<img src="https://img.shields.io/badge/-Espa%C3%B1ol%20(Nativo)-FF0000?logo=googletranslate&logoColor=white" width="150" height="30">  <img src="https://img.shields.io/badge/-Ingl%C3%A9s%20(Intermedio)-0078D7?logo=googletranslate&logoColor=white" width="170" height="30">
 
 ## 📌 Sobre mí
 - 🔍 Enfocado en **desarrollo back-end**, creando APIs de alto rendimiento y optimizando bases de datos para soportar sistemas escalables.
