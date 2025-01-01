@@ -1,4 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rodrigo Suárez - Back-End Developer Junior</title>
+</head>
+<body>
+    <h1>Rodrigo Suárez</h1>
+    <h2>Back-End Developer Junior</h2>
 
+    <p>Soy un desarrollador apasionado por crear soluciones <strong>eficientes</strong>, <strong>escalables</strong> y enfocadas en la excelencia técnica. Mi experiencia abarca desde la creación de APIs robustas hasta la optimización de bases de datos, siempre implementando las mejores prácticas del desarrollo de software. 🚀</p>
+
+    <h3>🛠️ Skills</h3>
+
+    <h4>Lenguajes:</h4>
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" width="50" height="50">
+    <img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" width="50" height="50">
+
+    <h4>Frameworks:</h4>
+    <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" width="50" height="50">
+    <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" width="50" height="50">
+
+    <h4>Bases de Datos:</h4>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" width="50" height="50">
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" width="50" height="50">
+    <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white" width="50" height="50">
+
+    <h4>Control de Versiones:</h4>
+    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" width="50" height="50">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" width="50" height="50">
+
+    <h4>Herramientas:</h4>
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" width="50" height="50">
+    <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white" width="50" height="50">
+    <img src="https://img.shields.io/badge/-ngrok-1F1F1F?logo=ngrok&logoColor=white" width="50" height="50">
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white" width="50" height="50">
+
+    <h4>CMSs:</h4>
+    <img src="https://img.shields.io/badge/-Xano-0078D7?logo=xano&logoColor=white" width="50" height="50">
+    <img src="https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white" width="50" height="50">
+
+    <h4>Idiomas:</h4>
+    <img src="https://img.shields.io/badge/-Espa%C3%B1ol%20(Nativo)-FF0000?logo=googletranslate&logoColor=white" width="50" height="50">
+    <img src="https://img.shields.io/badge/-Ingl%C3%A9s%20(Intermedio)-0078D7?logo=googletranslate&logoColor=white" width="50" height="50">
+
+    <h3>📌 Sobre mí</h3>
+    <ul>
+        <li>🔍 Enfocado en <strong>desarrollo back-end</strong>, creando APIs de alto rendimiento y optimizando bases de datos para soportar sistemas escalables.</li>
+        <li>📚 Siempre aprendiendo nuevas tecnologías, frameworks y metodologías que potencien mis habilidades técnicas.</li>
+        <li>🧠 Comprometido con la <strong>calidad del código</strong> y la <strong>implementación de buenas prácticas</strong> en proyectos de software.</li>
+    </ul>
+
+    <h3>🌐 Conéctate conmigo</h3>
+    <a href="https://www.linkedin.com/in/rodrigo-suarez-85225a318/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="50" height="50">
+    </a>
+    <a href="discordapp.com/users/rodrigo#9108">
+        <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white" width="50" height="50">
+    </a>
+    <a href="mailto:rodrigo.facultad.unsj@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white" width="50" height="50">
+    </a>
+
+    <p>✨ <strong>Siempre abierto a nuevos desafíos y colaboraciones. ¡Hablemos!</strong> ✨</p>
+</body>
+</html>
+
+
+
+<!--
 # 💻 **Rodrigo Suárez**
 
 ### **Back-End Developer Junior**
