@@ -7,7 +7,7 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 ## 🛠️ Skills
 
 ### Lenguajes:
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" width="120" height="30">  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" width="80" height="30">
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" width="120" height="30">  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" width="60" height="30">
 
 ### Frameworks:
 <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" width="120" height="30">  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" width="110" height="30">
@@ -22,7 +22,7 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" width="100" height="30">  <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white" width="100" height="30">  <img src="https://img.shields.io/badge/-ngrok-1F1F1F?logo=ngrok&logoColor=white" width="90" height="30">  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white" width="150" height="30">
 
 ### CMSs:
-<img src="https://img.shields.io/badge/-Xano-0078D7?logo=xano&logoColor=white" width="90" height="30">  <img src="https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white" width="100" height="30">
+<img src="https://img.shields.io/badge/-Xano-0078D7?logo=xano&logoColor=white" width="70" height="30">  <img src="https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white" width="100" height="30">
 
 ### Idiomas:
 <img src="https://img.shields.io/badge/-Espa%C3%B1ol%20(Nativo)-FF0000?logo=googletranslate&logoColor=white" width="150" height="30">  <img src="https://img.shields.io/badge/-Ingl%C3%A9s%20(Intermedio)-0078D7?logo=googletranslate&logoColor=white" width="150" height="30">
