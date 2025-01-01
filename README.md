@@ -1,6 +1,6 @@
-# Rodrigo Suárez
+# 💻 **Rodrigo Suárez**
 
-## Back-End Developer Junior
+## **Back-End Developer Junior**
 
 Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalables** y enfocadas en la excelencia técnica. Mi experiencia abarca desde la creación de APIs robustas hasta la optimización de bases de datos, siempre implementando las mejores prácticas del desarrollo de software. 🚀
 
