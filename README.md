@@ -36,9 +36,7 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 
 ## **🌐 Conéctate conmigo**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-suarez-85225a318/)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](rodrigo#9108)  
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:rodrigo.facultad.unsj@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-suarez-85225a318/) [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](rodrigo#9108)   [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:rodrigo.facultad.unsj@gmail.com)  
 
 ✨ **Siempre abierto a nuevos desafíos y colaboraciones. ¡Hablemos!** ✨
 
