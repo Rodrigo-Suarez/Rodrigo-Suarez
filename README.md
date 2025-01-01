@@ -8,7 +8,7 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 
 ### Lenguajes:
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" width="160" height="40">
-<img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" width="150" height="40">
+<img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" width="130" height="40">
 
 ### Frameworks:
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
