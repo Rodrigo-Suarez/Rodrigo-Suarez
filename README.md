@@ -7,7 +7,7 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 ## 🛠️ Skills
 
 ### Lenguajes:
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" width="120" height="30">  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" width="60" height="30">
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" width="100" height="30">  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" width="60" height="30">
 
 ### Frameworks:
 <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" width="100" height="30">  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" width="90" height="30">
