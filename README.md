@@ -9,32 +9,36 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 ### Lenguajes:
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" width="160" height="40"> <img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" width="90" height="40">
 
+### Lenguajes:
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" width="160" height="40"> 
+<img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" width="90" height="40">
+
 ### Frameworks:
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+<img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" width="150" height="40"> 
+<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" width="130" height="40">
 
 ### Bases de Datos:
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" width="130" height="40"> 
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" width="150" height="40"> 
+<img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white" width="100" height="40">
 
 ### Control de Versiones:
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" width="80" height="40"> 
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" width="120" height="40">
 
 ### Herramientas:
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
-![ngrok](https://img.shields.io/badge/-ngrok-1F1F1F?logo=ngrok&logoColor=white)
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" width="120" height="40"> 
+<img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white" width="120" height="40"> 
+<img src="https://img.shields.io/badge/-ngrok-1F1F1F?logo=ngrok&logoColor=white" width="100" height="40"> 
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white" width="180" height="40">
 
 ### CMSs:
-![Xano](https://img.shields.io/badge/-Xano-0078D7?logo=xano&logoColor=white)
-![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white)
+<img src="https://img.shields.io/badge/-Xano-0078D7?logo=xano&logoColor=white" width="120" height="40"> 
+<img src="https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white" width="130" height="40">
 
 ### Idiomas:
-![Español](https://img.shields.io/badge/-Espa%C3%B1ol%20(Nativo)-FF0000?logo=googletranslate&logoColor=white)
-![Inglés](https://img.shields.io/badge/-Ingl%C3%A9s%20(Intermedio)-0078D7?logo=googletranslate&logoColor=white)
+<img src="https://img.shields.io/badge/-Espa%C3%B1ol%20(Nativo)-FF0000?logo=googletranslate&logoColor=white" width="160" height="40"> 
+<img src="https://img.shields.io/badge/-Ingl%C3%A9s%20(Intermedio)-0078D7?logo=googletranslate&logoColor=white" width="150" height="40">
 
 ## 📌 Sobre mí
 - 🔍 Enfocado en **desarrollo back-end**, creando APIs de alto rendimiento y optimizando bases de datos para soportar sistemas escalables.
@@ -43,9 +47,16 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 
 ## 🌐 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-suarez-85225a318/)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](discordapp.com/users/rodrigo#9108)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:rodrigo.facultad.unsj@gmail.com)
+<a href="https://www.linkedin.com/in/rodrigo-suarez-85225a318/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="120" height="40">
+</a>
+<a href="discordapp.com/users/rodrigo#9108">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white" width="120" height="40">
+</a>
+<a href="mailto:rodrigo.facultad.unsj@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white" width="120" height="40">
+</a>
+
 
 ✨ **Siempre abierto a nuevos desafíos y colaboraciones. ¡Hablemos!** ✨
 
