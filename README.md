@@ -4,8 +4,8 @@
 
 ## 💻 Skills  
 - **Lenguajes:** Python, SQL  
-- **Frameworks:** FastAPI  
-- **Bases de Datos:** MySQL, PostgreSQL  
+- **Frameworks:** Django, FastAPI  
+- **Bases de Datos:** MySQL, PostgreSQL, SQLite  
 - **Control de Versiones:** Git & GitHub
 - **Herramientas:** Notion, ngrok, Postman, Visual Studio Code
 - **CMSs:** Xano, Strapi
@@ -15,8 +15,6 @@
 
 ## 🚀 Sobre mí  
 Actualmente estoy desarrollando mis habilidades como desarrollador back-end, aprendiendo nuevas tecnologías y contribuyendo a proyectos que me permitan crecer profesionalmente. Mi enfoque está en el desarrollo de APIs, la optimización de bases de datos y la implementación de buenas prácticas en el desarrollo de software.  
-
-Cuando no estoy codificando, me gusta aprender inglés, ¡y entrenar en el gimnasio! 💪  
 
 
 ## 🌐 Conéctate conmigo  
