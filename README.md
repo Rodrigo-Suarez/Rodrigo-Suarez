@@ -1,6 +1,6 @@
 # 💻 **Rodrigo Suárez**
 
-## **Back-End Developer Junior**
+### **Back-End Developer Junior**
 
 Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalables** y enfocadas en la excelencia técnica. Mi experiencia abarca desde la creación de APIs robustas hasta la optimización de bases de datos, siempre implementando las mejores prácticas del desarrollo de software. 🚀
 
@@ -17,23 +17,23 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 <img align="left" alt="SQL" width="26px" src="https://miro.medium.com/v2/resize:fit:787/1*IYEvbY1IRNoXRTuAIWpERQ.png" />
 <br />
 
-### ⚙️ Frameworks:
+#### ⚙️ Frameworks:
 <img align="left" alt="Django" width="26px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
 <img align="left" alt="FastAPI" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" />
 <br />
 
-### 🗄️ Bases de Datos:
+#### 🗄️ Bases de Datos:
 <img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
 <img align="left" alt="SQLite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
 <br />
 
-### 📦 Control de Versiones:
+#### 📦 Control de Versiones:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 <br />
 
-### 🛠️ Herramientas:
+#### 🛠️ Herramientas:
 <img align="left" alt="Postman" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
 <img align="left" alt="Notion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
 <img align="left" alt="ngrok" width="26px" src="https://logowik.com/content/uploads/images/ngrok-api-gateway1400.logowik.com.webp" />
@@ -41,18 +41,18 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 <img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />
 <br />
 
-### 🌍 Idiomas:
+#### 🌍 Idiomas:
 <img align="left" alt="Español" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/32px-Flag_of_Spain.svg.png" />
 <img align="left" alt="Inglés" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" />
 <br />
 
 
-## 📌 Sobre mí
+### 📌 Sobre mí
 - 🔍 Enfocado en **desarrollo back-end**, creando APIs de alto rendimiento y optimizando bases de datos para soportar sistemas escalables.
 - 📚 Siempre aprendiendo nuevas tecnologías, frameworks y metodologías que potencien mis habilidades técnicas.
 - 🧠 Comprometido con la **calidad del código** y la **implementación de buenas prácticas** en proyectos de software.
 
-## 🌐 Conéctate conmigo
+### 🌐 Conéctate conmigo
 
 <a href="https://www.linkedin.com/in/rodrigo-suarez-85225a318/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="80" height="30">
@@ -64,9 +64,6 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
     <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white" width="80" height="30">
 </a>
 
-
-
-✨ **Siempre abierto a nuevos desafíos y colaboraciones. ¡Hablemos!** ✨
 
 
 <!--
