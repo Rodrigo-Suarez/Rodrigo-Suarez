@@ -26,49 +26,59 @@ class AboutMe {
 
 ### 🛠️ Skills
 
-#### 💻 Lenguajes:
+#### <div align="center">---------- 💻 Lenguajes ----------</div>
 <div align="center">
-  <img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-  <img alt="SQL" width="40px" src="https://miro.medium.com/v2/resize:fit:787/1*IYEvbY1IRNoXRTuAIWpERQ.png" />
+  <img alt="Python" width="60px" src="https://www.todosoluciones.es/wp-content/uploads/2024/11/Python-Logo-600x445.png.webp" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="SQL" width="60px" src="https://miro.medium.com/v2/resize:fit:787/1*IYEvbY1IRNoXRTuAIWpERQ.png" />
 </div>
 <br />
 
-#### ⚙️ Frameworks:
+#### <div align="center">---------- ⚙️ Frameworks ----------</div>
 <div align="center">
-  <img alt="Django" width="40px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
-  <img alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" />
+  <img alt="Django" width="45px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="FastAPI" width="45px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" />
 </div>
 <br />
 
-#### 🗄️ Bases de Datos:
+#### <div align="center">---------- 🗄️ Bases de Datos ----------</div>
 <div align="center">
   <img alt="MySQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
-  <img alt="SQLite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="SQLite" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
 </div>
 <br />
 
-#### 📦 Control de Versiones:
+#### <div align="center">---------- 📦 Control de Versiones ----------</div>
 <div align="center">
-  <img alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-  <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+  <img alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="GitHub" width="60px" src="https://img.icons8.com/ios11/512/FFFFFF/github.png" />
 </div>
 <br />
 
-#### 🛠️ Herramientas:
+#### <div align="center">---------- 🛠️ Herramientas ----------</div>
 <div align="center">
   <img alt="Postman" width="40px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Notion" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="ngrok" width="40px" src="https://logowik.com/content/uploads/images/ngrok-api-gateway1400.logowik.com.webp" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Visual Studio Code" width="40px" src="https://code.visualstudio.com/assets/favicon.ico" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Google Cloud" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />
 </div>
 <br />
 
-#### 🌍 Idiomas:
+#### <div align="center">---------- 🌍 Idiomas ----------</div>
 <div align="center">
-  <img alt="Español" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/32px-Flag_of_Spain.svg.png" />
-  <img alt="Inglés" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of-the-United-States.svg.png" />
+  <img alt="Español" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/32px-Flag_of_Spain.svg.png" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Inglés" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of-the-United-States.svg.png" />
 </div>
 <br />
 
