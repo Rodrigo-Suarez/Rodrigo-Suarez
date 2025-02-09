@@ -42,7 +42,7 @@ class Skills {
   
   languages_spoken = [
     { name: 'Español', logo: '<img align="left" alt="Español" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/32px-Flag_of_Spain.svg.png" />' },
-    { name: 'Inglés', logo: '<img align="left" alt="Inglés" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" />' }
+    { name: 'Inglés', logo: '<img align="left" alt="Inglés" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of-the-United-States.svg.png" />' }
   ];
 }
 
@@ -59,7 +59,6 @@ class ConnectWithMe {
     { name: 'Gmail', url: 'mailto:rodrigo.facultad.unsj@gmail.com', logo: 'https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white' }
   ];
 }
-
 
 
 
