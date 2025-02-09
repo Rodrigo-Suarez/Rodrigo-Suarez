@@ -19,7 +19,7 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 
 ### ⚙️ Frameworks:
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" />
-<img align="left" alt="FastAPI" width="26px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
+<img align="left" alt="FastAPI" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" />
 <br />
 
 ### 🗄️ Bases de Datos:
@@ -38,7 +38,7 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 <img align="left" alt="Notion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
 <img align="left" alt="ngrok" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Ngrok.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/favicon.ico" />
-<img align="left" alt="Google Cloud" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" />
+<img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />
 <br />
 
 ### 📝 CMSs:
