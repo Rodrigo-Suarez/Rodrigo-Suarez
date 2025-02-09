@@ -6,7 +6,7 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 
 <div align="center">
 	<br>
-	<img src="https://github.com/Rodrigo-Suarez/Rodrigo-Suarez/blob/main/rodrigo_github_banner.gif" width="200" height="200">
+	<img src="https://github.com/Rodrigo-Suarez/Rodrigo-Suarez/blob/main/rodrigo_github_banner.gif" width="1600" height="500">
 	<br>
 </div>
 
