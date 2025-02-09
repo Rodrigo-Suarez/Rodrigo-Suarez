@@ -14,18 +14,18 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 
 ### 💻 Lenguajes:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />
+<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" />
 <br />
 
 ### ⚙️ Frameworks:
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" />
-<img align="left" alt="FastAPI" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" />
+<img align="left" alt="FastAPI" width="26px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
 <br />
 
 ### 🗄️ Bases de Datos:
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
-<img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
+<img align="left" alt="SQLite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
 <br />
 
 ### 📦 Control de Versiones:
@@ -34,21 +34,22 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 <br />
 
 ### 🛠️ Herramientas:
-<img align="left" alt="Postman" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postman/postman.png" />
-<img align="left" alt="Notion" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/notion/notion.png" />
-<img align="left" alt="ngrok" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ngrok/ngrok.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visualstudiocode/visualstudiocode.png" />
-<img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />
+<img align="left" alt="Postman" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
+<img align="left" alt="Notion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
+<img align="left" alt="ngrok" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Ngrok.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/favicon.ico" />
+<img align="left" alt="Google Cloud" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" />
 <br />
 
 ### 📝 CMSs:
-<img align="left" alt="Xano" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/xano/xano.png" />
-<img align="left" alt="Strapi" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/strapi/strapi.png" />
+<img align="left" alt="Xano" width="26px" src="https://www.xano.com/assets/images/xano-logo.png" />
+<img align="left" alt="Strapi" width="26px" src="https://docs.strapi.io/assets/favicon-32x32.png" />
 <br />
 
 ### 🌍 Idiomas:
-<img align="left" alt="Español" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/googletranslate/googletranslate.png" /> Español (Nativo)  
-<img align="left" alt="Inglés" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/googletranslate/googletranslate.png" /> Inglés (Intermedio)  
+<img align="left" alt="Español" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Twemoji2_1f1ea-1f1f8.svg/32px-Twemoji2_1f1ea-1f1f8.svg.png" /> Español (Nativo)  
+<img align="left" alt="Inglés" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Twemoji2_1f1fa-1f1f8.svg/32px-Twemoji2_1f1fa-1f1f8.svg.png" /> Inglés (Intermedio)  
+
 
 
 ## 📌 Sobre mí
