@@ -14,7 +14,7 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 
 ### 💻 Lenguajes:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="SQL" width="26px" src="https://c0.klipartz.com/pngpicture/28/601/gratis-png-ilustracion-del-logotipo-de-sql-base-de-datos-de-microsoft-sql-azure-servidor-de-microsoft-sql-base-de-datos.png" />
+<img align="left" alt="SQL" width="26px" src="https://miro.medium.com/v2/resize:fit:787/1*IYEvbY1IRNoXRTuAIWpERQ.png" />
 <br />
 
 ### ⚙️ Frameworks:
