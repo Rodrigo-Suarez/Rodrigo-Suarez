@@ -13,26 +13,37 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 ## 🛠️ Skills
 
 ### 💻 Lenguajes:
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" width="100" height="30">  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white" width="60" height="30">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"></code>
 
 ### ⚙️ Frameworks:
-<img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" width="100" height="30">  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" width="90" height="30">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png"></code>
 
 ### 🗄️ Bases de Datos:
-<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" width="110" height="30">  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" width="130" height="30">  <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white" width="90" height="30">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png"></code>
 
 ### 📦 Control de Versiones:
-<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" width="70" height="30">  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" width="100" height="30">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
 
 ### 🛠️ Herramientas:
-<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" width="100" height="30">  <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white" width="100" height="30">  <img src="https://img.shields.io/badge/-ngrok-1F1F1F?logo=ngrok&logoColor=white" width="90" height="30">  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white" width="150" height="30">  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" width="160" height="30">
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postman/postman.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/notion/notion.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/ngrok/ngrok.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/visualstudiocode/visualstudiocode.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png"></code>
 
 ### 📝 CMSs:
-<img src="https://img.shields.io/badge/-Xano-0078D7?logo=xano&logoColor=white" width="70" height="30">  <img src="https://img.shields.io/badge/-Strapi-2F2E8B?logo=strapi&logoColor=white" width="100" height="30">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/xano/xano.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/strapi/strapi.png"></code>
 
 ### 🌍 Idiomas:
-<img src="https://img.shields.io/badge/-Espa%C3%B1ol%20(Nativo)-FF0000?logo=googletranslate&logoColor=white" width="150" height="30">  <img src="https://img.shields.io/badge/-Ingl%C3%A9s%20(Intermedio)-0078D7?logo=googletranslate&logoColor=white" width="170" height="30">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/googletranslate/googletranslate.png"></code> Español (Nativo)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/googletranslate/googletranslate.png"></code> Inglés (Intermedio)
+
 
 ## 📌 Sobre mí
 - 🔍 Enfocado en **desarrollo back-end**, creando APIs de alto rendimiento y optimizando bases de datos para soportar sistemas escalables.
