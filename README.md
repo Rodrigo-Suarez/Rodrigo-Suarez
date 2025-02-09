@@ -7,13 +7,13 @@
 <br>
 <br>
 <br>
-class Bio {
+'''class Bio {
   name     = 'Rodrigo';
   title    = 'Desarrollador de Software';
   focus    = 'Soluciones eficientes, escalables y de alta calidad';
   experience = 'Desde APIs robustas hasta optimización de bases de datos';
   passion  = 'Mejorar con cada proyecto y siempre aprender nuevas tecnologías';
-}
+}'''
 
 class Skills {
   languages  = [
