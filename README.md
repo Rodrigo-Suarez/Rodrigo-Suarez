@@ -6,6 +6,8 @@
 <br>
 <br>
 
+----
+
 ```python
 
 class Bio {
@@ -24,9 +26,9 @@ class AboutMe {
 
 ```
 
-### 🛠️ Skills
-
-#### <div align="center">---------- 💻 Lenguajes ----------</div>
+-----
+### <div align="center">💻 Lenguajes </div>
+-----
 <div align="center">
   <img alt="Python" width="60px" src="https://www.todosoluciones.es/wp-content/uploads/2024/11/Python-Logo-600x445.png.webp" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,7 +36,9 @@ class AboutMe {
 </div>
 <br />
 
-#### <div align="center">---------- ⚙️ Frameworks ----------</div>
+-----
+### <div align="center">⚙️ Frameworks</div>
+-----
 <div align="center">
   <img alt="Django" width="45px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,7 +46,9 @@ class AboutMe {
 </div>
 <br />
 
-#### <div align="center">---------- 🗄️ Bases de Datos ----------</div>
+-----
+### <div align="center">🗄️ Bases de Datos</div>
+-----
 <div align="center">
   <img alt="MySQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,7 +58,9 @@ class AboutMe {
 </div>
 <br />
 
-#### <div align="center">---------- 📦 Control de Versiones ----------</div>
+-----
+### <div align="center">📦 Control de Versiones</div>
+-----
 <div align="center">
   <img alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,7 +68,9 @@ class AboutMe {
 </div>
 <br />
 
-#### <div align="center">---------- 🛠️ Herramientas ----------</div>
+-----
+### <div align="center">🛠️ Herramientas</div>
+-----
 <div align="center">
   <img alt="Postman" width="40px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -74,7 +84,9 @@ class AboutMe {
 </div>
 <br />
 
-#### <div align="center">---------- 🌍 Idiomas ----------</div>
+-----
+### <div align="center">🌍 Idiomas</div>
+-----
 <div align="center">
   <img alt="Español" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/32px-Flag_of_Spain.svg.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -83,20 +95,30 @@ class AboutMe {
 <br />
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+	<br>
+	<img src="https://github.com/Rodrigo-Suarez/Rodrigo-Suarez/blob/main/rodrigo_github_contact_with_me.gif" width="1400" height="75">
+	<br>
+</div>
+<br>
+<div align="center">
+	<a href="https://www.linkedin.com/in/rodrigo-suarez-85225a318/">
+	    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="50" height="50">
+	</a>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://discord.com/users/558724992561315841/">
+	    <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" width="50" height="50">
+	</a>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="mailto:rodrigo.facultad.unsj@gmail.com">
+	    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="50" height="50">
+	</a>
+</div>
 
-### 🌐 Conéctate conmigo
-
-<a href="https://www.linkedin.com/in/rodrigo-suarez-85225a318/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="80" height="30">
-</a>
-<a href="https://discord.com/users/558724992561315841/">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white" width="100" height="30">
-</a>
-<a href="mailto:rodrigo.facultad.unsj@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white" width="80" height="30">
-</a>
-}
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
