@@ -18,7 +18,7 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 <br />
 
 ### ⚙️ Frameworks:
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" />
+<img align="left" alt="Django" width="26px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
 <img align="left" alt="FastAPI" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" />
 <br />
 
