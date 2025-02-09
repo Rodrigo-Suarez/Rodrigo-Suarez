@@ -10,9 +10,9 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 	<br>
 </div>
 
-## 🛠️ Skills
+### 🛠️ Skills
 
-### 💻 Lenguajes:
+#### 💻 Lenguajes:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://miro.medium.com/v2/resize:fit:787/1*IYEvbY1IRNoXRTuAIWpERQ.png" />
 <br />
