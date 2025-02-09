@@ -41,11 +41,6 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 <img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />
 <br />
 
-### 📝 CMSs:
-<img align="left" alt="Xano" width="26px" src="https://www.xano.com/assets/images/xano-logo.png" />
-<img align="left" alt="Strapi" width="26px" src="https://docs.strapi.io/assets/favicon-32x32.png" />
-<br />
-
 ### 🌍 Idiomas:
 <img align="left" alt="Español" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Spain_%28Civil%29.svg/32px-Flag_of_Spain_%28Civil%29.svg.png" /> Español (Nativo)  
 <img align="left" alt="Inglés" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" /> Inglés (Intermedio)  
