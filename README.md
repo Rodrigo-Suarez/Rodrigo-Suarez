@@ -5,7 +5,6 @@
 </div>
 <br>
 <br>
-<br>
 
 ```python
 
@@ -15,6 +14,12 @@ class Bio {
   focus    = 'Soluciones eficientes, escalables y de alta calidad';
   experience = 'Desde APIs robustas hasta optimización de bases de datos';
   passion  = 'Mejorar con cada proyecto y siempre aprender nuevas tecnologías';
+}
+
+class AboutMe {
+  focus_on_back_end = 'Enfocado en crear APIs de alto rendimiento';
+  always_learning  = 'Siempre aprendiendo nuevas herramientas y metodologías';
+  quality_code     = 'Comprometido con la calidad del código y las buenas prácticas';
 }
 
 ```
@@ -55,11 +60,6 @@ class Bio {
 <img align="left" alt="Inglés" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" />
 <br />
 
-
-### 📌 Sobre mí
-- 🔍 Enfocado en **desarrollo back-end**, creando APIs de alto rendimiento y optimizando bases de datos para soportar sistemas escalables.
-- 📚 Siempre aprendiendo nuevas tecnologías, frameworks y metodologías que potencien mis habilidades técnicas.
-- 🧠 Comprometido con la **calidad del código** y la **implementación de buenas prácticas** en proyectos de software.
 
 ### 🌐 Conéctate conmigo
 
