@@ -23,7 +23,7 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 <br />
 
 ### 🗄️ Bases de Datos:
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
 <img align="left" alt="SQLite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
 <br />
