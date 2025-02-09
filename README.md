@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<img src="https://github.com/Rodrigo-Suarez/Rodrigo-Suarez/blob/main/rodrigo_github_banner.gif" width="1400" height="250">
+	<img src="https://github.com/Rodrigo-Suarez/Rodrigo-Suarez/blob/main/rodrigo_github_banner.gif" width="1400" height="275">
 	<br>
 </div>
 <br>
