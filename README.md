@@ -43,7 +43,7 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 
 ### 🌍 Idiomas:
 <img align="left" alt="Español" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/32px-Flag_of_Spain.svg.png" />
-<img align="left" alt="Inglés" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" /> Inglés (Intermedio)  
+<img align="left" alt="Inglés" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" />
 
 
 
