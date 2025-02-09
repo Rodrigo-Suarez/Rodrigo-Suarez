@@ -7,61 +7,60 @@
 <br>
 <br>
 <br>
-Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalables** y enfocadas en la excelencia técnica. Mi experiencia abarca desde la creación de APIs robustas hasta la optimización de bases de datos, siempre implementando las mejores prácticas del desarrollo de software. 🚀
+class Bio {
+  name     = 'Rodrigo';
+  title    = 'Desarrollador de Software';
+  focus    = 'Soluciones eficientes, escalables y de alta calidad';
+  experience = 'Desde APIs robustas hasta optimización de bases de datos';
+  passion  = 'Mejorar con cada proyecto y siempre aprender nuevas tecnologías';
+}
 
-### 🛠️ Skills
+class Skills {
+  languages  = [
+    { name: 'Python', logo: '<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />' },
+    { name: 'SQL', logo: '<img align="left" alt="SQL" width="26px" src="https://miro.medium.com/v2/resize:fit:787/1*IYEvbY1IRNoXRTuAIWpERQ.png" />' }
+  ];
+  
+  frameworks = [
+    { name: 'Django', logo: '<img align="left" alt="Django" width="26px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />' },
+    { name: 'FastAPI', logo: '<img align="left" alt="FastAPI" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" />' }
+  ];
 
-#### 💻 Lenguajes:
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="SQL" width="26px" src="https://miro.medium.com/v2/resize:fit:787/1*IYEvbY1IRNoXRTuAIWpERQ.png" />
-<br />
+  databases  = [
+    { name: 'MySQL', logo: '<img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />' },
+    { name: 'PostgreSQL', logo: '<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />' },
+    { name: 'SQLite', logo: '<img align="left" alt="SQLite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />' }
+  ];
 
-#### ⚙️ Frameworks:
-<img align="left" alt="Django" width="26px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
-<img align="left" alt="FastAPI" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" />
-<br />
+  tools      = [
+    { name: 'Git', logo: '<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />' },
+    { name: 'GitHub', logo: '<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />' },
+    { name: 'Postman', logo: '<img align="left" alt="Postman" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />' },
+    { name: 'Visual Studio Code', logo: '<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/favicon.ico" />' },
+    { name: 'Google Cloud', logo: '<img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />' }
+  ];
+  
+  languages_spoken = [
+    { name: 'Español', logo: '<img align="left" alt="Español" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/32px-Flag_of_Spain.svg.png" />' },
+    { name: 'Inglés', logo: '<img align="left" alt="Inglés" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" />' }
+  ];
+}
 
-#### 🗄️ Bases de Datos:
-<img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
-<img align="left" alt="SQLite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
-<br />
+class AboutMe {
+  focus_on_back_end = 'Enfocado en crear APIs de alto rendimiento';
+  always_learning  = 'Siempre aprendiendo nuevas herramientas y metodologías';
+  quality_code     = 'Comprometido con la calidad del código y las buenas prácticas';
+}
 
-#### 📦 Control de Versiones:
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
-<br />
-
-#### 🛠️ Herramientas:
-<img align="left" alt="Postman" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
-<img align="left" alt="Notion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
-<img align="left" alt="ngrok" width="26px" src="https://logowik.com/content/uploads/images/ngrok-api-gateway1400.logowik.com.webp" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/favicon.ico" />
-<img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />
-<br />
-
-#### 🌍 Idiomas:
-<img align="left" alt="Español" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/32px-Flag_of_Spain.svg.png" />
-<img align="left" alt="Inglés" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" />
-<br />
+class ConnectWithMe {
+  platforms = [
+    { name: 'LinkedIn', url: 'https://www.linkedin.com/in/rodrigo-suarez-85225a318/', logo: 'https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white' },
+    { name: 'Discord', url: 'https://discord.com/users/558724992561315841/', logo: 'https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white' },
+    { name: 'Gmail', url: 'mailto:rodrigo.facultad.unsj@gmail.com', logo: 'https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white' }
+  ];
+}
 
 
-### 📌 Sobre mí
-- 🔍 Enfocado en **desarrollo back-end**, creando APIs de alto rendimiento y optimizando bases de datos para soportar sistemas escalables.
-- 📚 Siempre aprendiendo nuevas tecnologías, frameworks y metodologías que potencien mis habilidades técnicas.
-- 🧠 Comprometido con la **calidad del código** y la **implementación de buenas prácticas** en proyectos de software.
-
-### 🌐 Conéctate conmigo
-
-<a href="https://www.linkedin.com/in/rodrigo-suarez-85225a318/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="80" height="30">
-</a>
-<a href="https://discord.com/users/558724992561315841/">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white" width="100" height="30">
-</a>
-<a href="mailto:rodrigo.facultad.unsj@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white" width="80" height="30">
-</a>
 
 
 
