@@ -36,13 +36,13 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 ### 🛠️ Herramientas:
 <img align="left" alt="Postman" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
 <img align="left" alt="Notion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
-<img align="left" alt="ngrok" width="26px" src="https://avatars.githubusercontent.com/u/64737030?s=200&v=4" />
+<img align="left" alt="ngrok" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Ngrok_logo.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/favicon.ico" />
 <img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />
 <br />
 
 ### 🌍 Idiomas:
-<img align="left" alt="Español" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Spain_%28Civil%29.svg/32px-Flag_of_Spain_%28Civil%29.svg.png" /> Español (Nativo)  
+<img align="left" alt="Español" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Spain_%28Civil%29.svg/32px-Flag_of_Spain_%28Civil%29.svg.png" />  
 <img align="left" alt="Inglés" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" /> Inglés (Intermedio)  
 
 
