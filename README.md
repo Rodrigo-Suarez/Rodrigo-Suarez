@@ -4,6 +4,13 @@
 
 Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalables** y enfocadas en la excelencia técnica. Mi experiencia abarca desde la creación de APIs robustas hasta la optimización de bases de datos, siempre implementando las mejores prácticas del desarrollo de software. 🚀
 
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<br>
+    	<img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400">
+</div>
+
 ## 🛠️ Skills
 
 ### 💻 Lenguajes:
