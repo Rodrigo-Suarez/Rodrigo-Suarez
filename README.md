@@ -36,7 +36,7 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 ### 🛠️ Herramientas:
 <img align="left" alt="Postman" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
 <img align="left" alt="Notion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
-<img align="left" alt="ngrok" width="26px" src="https://avatars.githubusercontent.com/u/64737030?s=200&v=4" />
+<img align="left" alt="ngrok" width="26px" src="https://logowik.com/content/uploads/images/ngrok-api-gateway1400.logowik.com.webp" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/favicon.ico" />
 <img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />
 <br />
