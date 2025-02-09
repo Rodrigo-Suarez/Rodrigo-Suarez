@@ -13,36 +13,42 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 ## 🛠️ Skills
 
 ### 💻 Lenguajes:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"></code>
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />
+<br />
 
 ### ⚙️ Frameworks:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png"></code>
+<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" />
+<img align="left" alt="FastAPI" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" />
+<br />
 
 ### 🗄️ Bases de Datos:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png"></code>
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
+<img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
+<br />
 
 ### 📦 Control de Versiones:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<br />
 
 ### 🛠️ Herramientas:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postman/postman.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/notion/notion.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/ngrok/ngrok.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/visualstudiocode/visualstudiocode.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png"></code>
+<img align="left" alt="Postman" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postman/postman.png" />
+<img align="left" alt="Notion" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/notion/notion.png" />
+<img align="left" alt="ngrok" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/ngrok/ngrok.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visualstudiocode/visualstudiocode.png" />
+<img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />
+<br />
 
 ### 📝 CMSs:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/xano/xano.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/strapi/strapi.png"></code>
+<img align="left" alt="Xano" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/xano/xano.png" />
+<img align="left" alt="Strapi" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/strapi/strapi.png" />
+<br />
 
 ### 🌍 Idiomas:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/googletranslate/googletranslate.png"></code> Español (Nativo)
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/googletranslate/googletranslate.png"></code> Inglés (Intermedio)
+<img align="left" alt="Español" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/googletranslate/googletranslate.png" /> Español (Nativo)  
+<img align="left" alt="Inglés" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/googletranslate/googletranslate.png" /> Inglés (Intermedio)  
 
 
 ## 📌 Sobre mí
