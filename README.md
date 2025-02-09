@@ -23,42 +23,55 @@ class AboutMe {
 }
 
 ```
- 
+
 ### 🛠️ Skills
 
 #### 💻 Lenguajes:
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="SQL" width="26px" src="https://miro.medium.com/v2/resize:fit:787/1*IYEvbY1IRNoXRTuAIWpERQ.png" />
+<div align="center">
+  <img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+  <img alt="SQL" width="40px" src="https://miro.medium.com/v2/resize:fit:787/1*IYEvbY1IRNoXRTuAIWpERQ.png" />
+</div>
 <br />
 
 #### ⚙️ Frameworks:
-<img align="left" alt="Django" width="26px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
-<img align="left" alt="FastAPI" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" />
+<div align="center">
+  <img alt="Django" width="40px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
+  <img alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" />
+</div>
 <br />
 
 #### 🗄️ Bases de Datos:
-<img align="left" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
-<img align="left" alt="SQLite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
+<div align="center">
+  <img alt="MySQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
+  <img alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
+  <img alt="SQLite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
+</div>
 <br />
 
 #### 📦 Control de Versiones:
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<div align="center">
+  <img alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+  <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+</div>
 <br />
 
 #### 🛠️ Herramientas:
-<img align="left" alt="Postman" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
-<img align="left" alt="Notion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
-<img align="left" alt="ngrok" width="26px" src="https://logowik.com/content/uploads/images/ngrok-api-gateway1400.logowik.com.webp" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/favicon.ico" />
-<img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />
+<div align="center">
+  <img alt="Postman" width="40px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
+  <img alt="Notion" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
+  <img alt="ngrok" width="40px" src="https://logowik.com/content/uploads/images/ngrok-api-gateway1400.logowik.com.webp" />
+  <img alt="Visual Studio Code" width="40px" src="https://code.visualstudio.com/assets/favicon.ico" />
+  <img alt="Google Cloud" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />
+</div>
 <br />
 
 #### 🌍 Idiomas:
-<img align="left" alt="Español" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/32px-Flag_of_Spain.svg.png" />
-<img align="left" alt="Inglés" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" />
+<div align="center">
+  <img alt="Español" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/32px-Flag_of_Spain.svg.png" />
+  <img alt="Inglés" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of-the-United-States.svg.png" />
+</div>
 <br />
+
 
 
 ### 🌐 Conéctate conmigo
