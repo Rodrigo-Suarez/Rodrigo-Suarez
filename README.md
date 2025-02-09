@@ -19,7 +19,7 @@ Soy un desarrollador apasionado por crear soluciones **eficientes**, **escalable
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" width="70" height="30">  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" width="100" height="30">
 
 ### 🛠️ Herramientas:
-<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" width="100" height="30">  <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white" width="100" height="30">  <img src="https://img.shields.io/badge/-ngrok-1F1F1F?logo=ngrok&logoColor=white" width="90" height="30">  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white" width="150" height="30">  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" width="180" height="30">
+<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" width="100" height="30">  <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white" width="100" height="30">  <img src="https://img.shields.io/badge/-ngrok-1F1F1F?logo=ngrok&logoColor=white" width="90" height="30">  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white" width="150" height="30">  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" width="160" height="30">
 
 
 ### 📝 CMSs:
