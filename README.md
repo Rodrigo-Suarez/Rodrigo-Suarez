@@ -8,27 +8,30 @@
 
 ----
 
+
+	
 ```python
 
-class Bio {
-  name     = 'Rodrigo';
-  title    = 'Desarrollador de Software';
-  focus    = 'Soluciones eficientes, escalables y de alta calidad';
-  experience = 'Desde APIs robustas hasta optimización de bases de datos';
-  passion  = 'Mejorar con cada proyecto y siempre aprender nuevas tecnologías';
-}
-
-class AboutMe {
-  focus_on_back_end = 'Enfocado en crear APIs de alto rendimiento';
-  always_learning  = 'Siempre aprendiendo nuevas herramientas y metodologías';
-  quality_code     = 'Comprometido con la calidad del código y las buenas prácticas';
-}
+		class Bio {
+		    name     = 'Rodrigo';
+		    title    = 'Desarrollador de Software';
+		    focus    = 'Soluciones eficientes, escalables y de alta calidad';
+		    experience = 'Desde APIs robustas hasta optimización de bases de datos';
+		    passion  = 'Mejorar con cada proyecto y siempre aprender nuevas tecnologías';
+		}
+						
+		class AboutMe {
+		    focus_on_back_end = 'Enfocado en crear APIs de alto rendimiento';
+		    always_learning  = 'Siempre aprendiendo nuevas herramientas y metodologías';
+		    quality_code     = 'Comprometido con la calidad del código y las buenas prácticas';
+		}
 
 ```
 
+
 -----
-### <div align="center">💻 Lenguajes </div>
------
+### <div align="center"> - - - - - - - - - - - - - - - - - - - -/ 💻 Lenguajes /- - - - - - - - - - - - - - - - - - - - </div>
+
 <div align="center">
   <img alt="Python" width="60px" src="https://www.todosoluciones.es/wp-content/uploads/2024/11/Python-Logo-600x445.png.webp" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,8 +40,8 @@ class AboutMe {
 <br />
 
 -----
-### <div align="center">⚙️ Frameworks</div>
------
+### <div align="center"> - - - - - - - - - - - - - - - - - - - -/ ⚙️ Frameworks /- - - - - - - - - - - - - - - - - - - -</div>
+
 <div align="center">
   <img alt="Django" width="45px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,8 +50,8 @@ class AboutMe {
 <br />
 
 -----
-### <div align="center">🗄️ Bases de Datos</div>
------
+### <div align="center">- - - - - - - - - - - - - - - - - - - -/ 🗄️ Bases de Datos /- - - - - - - - - - - - - - - - - - - -</div>
+
 <div align="center">
   <img alt="MySQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -59,8 +62,8 @@ class AboutMe {
 <br />
 
 -----
-### <div align="center">📦 Control de Versiones</div>
------
+### <div align="center">- - - - - - - - - - - - - - - - - - - -/ 📦 Control de Versiones /- - - - - - - - - - - - - - - - - - - -</div>
+
 <div align="center">
   <img alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -69,8 +72,8 @@ class AboutMe {
 <br />
 
 -----
-### <div align="center">🛠️ Herramientas</div>
------
+### <div align="center">- - - - - - - - - - - - - - - - - - - -/ 🛠️ Herramientas /- - - - - - - - - - - - - - - - - - - -</div>
+
 <div align="center">
   <img alt="Postman" width="40px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -85,8 +88,8 @@ class AboutMe {
 <br />
 
 -----
-### <div align="center">🌍 Idiomas</div>
------
+### <div align="center">- - - - - - - - - - - - - - - - - - - -/ 🌍 Idiomas /- - - - - - - - - - - - - - - - - - - -</div>
+
 <div align="center">
   <img alt="Español" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/32px-Flag_of_Spain.svg.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -114,7 +117,7 @@ class AboutMe {
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="mailto:rodrigo.facultad.unsj@gmail.com">
-	    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="50" height="50">
+	    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="65" height="50">
 	</a>
 </div>
 
