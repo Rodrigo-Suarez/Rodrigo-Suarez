@@ -101,7 +101,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
 	<br>
-	<img src="https://github.com/Rodrigo-Suarez/Rodrigo-Suarez/blob/main/rodrigo_github_contact_with_me.gif" width="1400" height="75">
+	<img src="https://github.com/Rodrigo-Suarez/Rodrigo-Suarez/blob/main/rodrigo_github_contact_with_me.gif" width="1400" height="50">
 	<br>
 </div>
 <br>
