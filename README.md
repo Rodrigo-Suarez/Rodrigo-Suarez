@@ -33,8 +33,12 @@
 ### <div align="center"> - - - - - - - - - - - - - - - - - - - -/ 💻 Lenguajes /- - - - - - - - - - - - - - - - - - - - </div>
 
 <div align="center">
-  <img alt="Python" width="60px" src="https://www.todosoluciones.es/wp-content/uploads/2024/11/Python-Logo-600x445.png.webp" />
+  <img alt="Node.js" width="40px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Python" width="60px" src="https://www.todosoluciones.es/wp-content/uploads/2024/11/Python-Logo-600x445.png.webp" />
+  &nbsp;&nbsp;&nbsp;&nbsp; 
   <img alt="SQL" width="60px" src="https://miro.medium.com/v2/resize:fit:787/1*IYEvbY1IRNoXRTuAIWpERQ.png" />
 </div>
 <br />
@@ -43,6 +47,8 @@
 ### <div align="center"> - - - - - - - - - - - - - - - - - - - -/ ⚙️ Frameworks /- - - - - - - - - - - - - - - - - - - -</div>
 
 <div align="center">
+  <img alt="NestJS" width="45px" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png" />
+  &nbsp;&nbsp;&nbsp;&nbsp; 
   <img alt="Django" width="45px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="FastAPI" width="45px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" />
@@ -58,6 +64,8 @@
   <img alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="SQLite" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img alt="Redis" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
 </div>
 <br />
 
@@ -84,6 +92,10 @@
   <img alt="Visual Studio Code" width="40px" src="https://code.visualstudio.com/assets/favicon.ico" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Google Cloud" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img alt="Docker" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
+
+
 </div>
 <br />
 
